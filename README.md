@@ -5,10 +5,11 @@ Bulit on 2024/10 by Tim Yeh & Fred Liu
 [Youtube Link]() notyet 
   
 版本(version):MATALB:minimum vervion 2024b.  
-　　
-需要工具箱(Toolbox): Deeplearning , Image Processing, Computer Vision, Parallel Computing 
-　　
+  
+需要工具箱(Toolbox): Deeplearning , Image Processing, Computer Vision, Parallel Computing  
+  　
 需要支援包(Support Package): Visual Inspection,RTMDet,VIT,and more about pretrain modle.  
+  
 YOLOX,FCDD,PatchCore,EfficientAD:  
 [Automated Visual Inspection Library for Computer Vision Toolbox](https://www.mathworks.com/matlabcentral/fileexchange/116555-automated-visual-inspection-library-for-computer-vision-toolbox?s_tid=ta_fx_results)  
 RTMDet:  
