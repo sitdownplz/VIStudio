@@ -1,0 +1,23 @@
+# VIStudio
+Visual inspection graphical user interface project that based on MATLAB
+
+Bulit on 2024/10 by Tim Yeh & Fred Liu  
+[Youtube Link]() notyet  
+  
+版本(version):MATALB:minimum vervion 2024b.  
+需要工具箱(Toolbox): Deeplearning , Image Processing, Computer Vision, Parallel Computing  
+需要支援包(Support Package): YOLOv3,YOLOv4 Package & pretrain modle Package  
+
+
+
+![image](https://github.com/sitdownplz/VIStudio/blob/main/VISudio.png)
+
+1. 入口介面(四大功能)
+2. 影像標記(Image Labeler) 
+3. 分類檢測(Classification) 
+4. 物件偵測(Objection Detection) 
+5. 異常偵測(Anomaly Detection) 
+
+
+
+
