@@ -7,7 +7,7 @@ Bulit on 2024/10 by Tim Yeh & Fred Liu
 版本(version):MATALB:minimum vervion 2024b.  
   
 需要工具箱(Toolbox): Deeplearning , Image Processing, Computer Vision, Parallel Computing  
-  　
+  
 需要支援包(Support Package): Visual Inspection,RTMDet,VIT,and more about pretrain modle.  
   
 YOLOX,FCDD,PatchCore,EfficientAD:  
