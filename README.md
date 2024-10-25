@@ -14,20 +14,20 @@ RTMDet:
 Vitsion Transformer:  
 [Computer Vision Toolbox Model for Vision Transformer Network](https://www.mathworks.com/matlabcentral/fileexchange/129739-computer-vision-toolbox-model-for-vision-transformer-network?s_tid=ta_fx_results)
 
+入口介面：  
 ![image](https://github.com/sitdownplz/VIStudio/blob/main/image/VISudio.png)
 
-1. 入口介面(四大功能)
-  
-2. 影像標記(Image Labeler) 
+
+1. 影像標記(Image Labeler) 
 ![image](https://github.com/sitdownplz/VIStudio/blob/main/image/VISudio2.png)
     
-3. 分類檢測(Classification) 
+2. 分類檢測(Classification) 
 ![image](https://github.com/sitdownplz/VIStudio/blob/main/image/VISudio3.png)  
   
-4. 物件偵測(Objection Detection) 
+3. 物件偵測(Objection Detection) 
 ![image](https://github.com/sitdownplz/VIStudio/blob/main/image/VISudio4.png)
     
-5. 異常偵測(Anomaly Detection) 
+4. 異常偵測(Anomaly Detection) 
 ![image](https://github.com/sitdownplz/VIStudio/blob/main/image/VISudio5.png)
 
 
